@@ -25,3 +25,7 @@ which pip
 python --version
 pip --version
 ```
+
+# Reference
+These tutorials follows the course https://www.youtube.com/watch?v=nvv_l5xiBwY&list=PLhI5X1mNN8giEspGNb39R1d7ik6RlSI7l&index=1, 
+and its documentation https://learnquantum.io/chapters/00_getting_started/00_00_welcome.html 
